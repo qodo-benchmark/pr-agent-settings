@@ -1,7 +1,7 @@
 [review_agent]
 enabled = true
 publish_output = true
-comments_location_policy= "both"
+comments_location_policy = "both"
 
 [github_app]
 pr_commands = ["/agentic_review"]
