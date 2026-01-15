@@ -2,9 +2,9 @@
 enabled = true
 publish_output = true
 comments_location_policy = "both"
-# enable_issues_agent = true
-# enable_compliance_agent = false
-# enable_deduplication = false
+enable_issues_agent = true
+enable_compliance_agent = false
+enable_deduplication = false
 
 [github_app]
 pr_commands = ["/agentic_review"]
