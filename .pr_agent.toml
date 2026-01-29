@@ -2,6 +2,7 @@
 enabled = true
 publish_output = true
 comments_location_policy = "both"
+publishing_action_level_rank_threshold = 2
 # enable_issues_agent = true
 # enable_compliance_agent = false
 # enable_deduplication = false
