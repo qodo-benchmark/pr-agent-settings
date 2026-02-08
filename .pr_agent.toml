@@ -1,11 +1,11 @@
 [review_agent]
 enabled = true
-publish_output = true
-comments_location_policy = "both"
-publishing_action_level_rank_threshold = 3
+# publish_output = true
+# comments_location_policy = "both"
+# publishing_action_level_rank_threshold = 3
 # enable_issues_agent = true
 # enable_compliance_agent = false
 # enable_deduplication = false
 
 [github_app]
-pr_commands = ["/agentic_review"]
+# pr_commands = ["/agentic_review"]
