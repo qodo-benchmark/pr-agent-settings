@@ -10,3 +10,7 @@ inline_comments_severity_threshold = 1
 
 [github_app]
 # pr_commands = ["/agentic_review"]
+
+[pr_compliance]
+enable_rules_platform = false
+
