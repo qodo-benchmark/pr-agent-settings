@@ -16,3 +16,6 @@ enable_rules_platform = false
 
 [config]
 pr_compliance = {'ENABLE_RULES_PLATFORM': False}  
+add_repo_metadata = true  # if true, add metadata from files like 'AGENTS.MD', 'CLAUDE.MD', 'QODO.MD' etc.
+add_repo_metadata_file_list = ["AGENTS.MD", "CLAUDE.MD", "QODO.MD"]  # list of files to look for
+
