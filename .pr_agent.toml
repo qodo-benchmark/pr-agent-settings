@@ -13,6 +13,7 @@ inline_comments_severity_threshold = 1
 
 [pr_compliance]
 enable_rules_platform = false
+rule_providers = []
 
 [config]
 add_repo_metadata = true  # if true, add metadata from files like 'AGENTS.MD', 'CLAUDE.MD', 'QODO.MD' etc.
