@@ -16,5 +16,5 @@ enable_rules_platform = false
 
 [config]
 add_repo_metadata = true  # if true, add metadata from files like 'AGENTS.MD', 'CLAUDE.MD', 'QODO.MD' etc.
-add_repo_metadata_file_list = ["AGENTS.MD", "CLAUDE.MD", "QODO.MD"]  # list of files to look for
+add_repo_metadata_file_list = ["AGENTS.md"]  # list of files to look for
 
