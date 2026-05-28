@@ -1,21 +1,6 @@
 [review_agent]
 enabled = true
 inline_comments_severity_threshold = 1
-# publish_output = true
-# comments_location_policy = "both"
-#publishing_action_level_rank_threshold = 3
-# enable_issues_agent = true
-# enable_compliance_agent = false
-# enable_deduplication = false
 
-[github_app]
-# pr_commands = ["/agentic_review"]
 
-[pr_compliance]
-enable_rules_platform = false
-rule_providers = []
-
-[config]
-add_repo_metadata = true  # if true, add metadata from files like 'AGENTS.MD', 'CLAUDE.MD', 'QODO.MD' etc.
-add_repo_metadata_file_list = ["AGENTS.md"]  # list of files to look for
 
